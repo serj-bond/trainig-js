@@ -6,3 +6,8 @@
 .title {
 	font-style: 1.5em;
 }
+
+.container {
+	max-width: 1400px;
+	width: 100%;
+}
