@@ -17,6 +17,10 @@
 	width: 100%;
 }
 
+.left-box {
+	float: left;
+}
+
 .footer {
 	width: 100%;
 	background-color: aquamarine;
